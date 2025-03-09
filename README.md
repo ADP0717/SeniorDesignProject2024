@@ -47,10 +47,14 @@ This project leverages ML and DL techniques to assist pathologists in classifyin
 
 ## 🏗 Technology Stack  
 📝 **Programming Language:** Python  
-  <div>
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
-  </div> 
-🔧 **Frameworks & Libraries:** TensorFlow, Keras, OpenCV, Scikit-learn, PyWavelets  
+    <div>
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
+    </div> 
+🔧 **Frameworks & Libraries:** TensorFlow, Keras, OpenCV, Scikit-learn, PyWavelets
+    <div>
+    <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow"/>
+    <img src="https://img.shields.io/badge/Keras-2.x-red?style=for-the-badge&logo=keras"/>
+    </div>
 
 ---
 
