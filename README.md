@@ -11,6 +11,10 @@ Early detection of SCC is crucial in reducing mortality rates. However, manual d
 ✅ **Time-consuming manual analysis**  
 
 This project leverages ML and DL techniques to assist pathologists in classifying histopathological images, **reducing workload and improving accuracy**.
+<div>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FFD700?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Machine Learning Badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF4500?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
+</div>
 
 ## 🔬 Methodology  
 ### **1️⃣ Data Processing**  
