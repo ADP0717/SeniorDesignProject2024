@@ -54,6 +54,7 @@ This project leverages ML and DL techniques to assist pathologists in classifyin
     <div>
     <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow"/>
     <img src="https://img.shields.io/badge/Keras-2.x-red?style=for-the-badge&logo=keras"/>
+    <img src="https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv">
     </div>
 
 ---
